@@ -1,4 +1,4 @@
-<!-- doc/src/sgml/filelist.sgml -->
+ï»¿<!-- doc/src/sgml/filelist.sgml -->
 
 <!ENTITY history    SYSTEM "history.sgml">
 <!ENTITY info       SYSTEM "info.sgml">
@@ -199,6 +199,6 @@
  some parts (e.g., external xref's) when generating these files we use
  these parameter entities.  See also standalone-install.sgml.
  -->
-ƒeƒXƒg
+ãƒ†ã‚¹ãƒˆ
 <!ENTITY % standalone-ignore  "INCLUDE">
 <!ENTITY % standalone-include "IGNORE">
